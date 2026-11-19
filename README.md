@@ -4,7 +4,7 @@ Configurable **product labels** for Magento 2 and Mage-OS: "New", "Coming soon",
 
 ![Product label form in the Magento admin with colors, style, icon and position](images/product-label-admin-form.png)
 
-**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.4 · Themes: Luma, Breeze, Hyvä
+**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.5 · Themes: Luma, Breeze, Hyvä
 **License:** commercial · coming soon
 
 ## Features
@@ -30,7 +30,7 @@ Configurable **product labels** for Magento 2 and Mage-OS: "New", "Coming soon",
 ## Requirements
 
 - Magento Open Source / Adobe Commerce 2.4.4+ or Mage-OS
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - Package: `threecommerce/m2-base`
 
 ## Availability
